@@ -1,6 +1,6 @@
 # Exception
 
-Flutter project for NITRR Hackathon.
-Codeutsava 6.0
-Team Name: Exception!
+Flutter project for NITRR Hackathon.<br>
+Codeutsava 6.0<br>
+Team Name: Exception!<br>
 
